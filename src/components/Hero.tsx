@@ -17,6 +17,7 @@ const Hero = () => {
             <h1 className="text-4xl lg:text-6xl font-bold text-white mb-6 leading-tight">
               Controle suas finanças 
               <span className="block text-primary-glow">sem complicação</span>
+              <span className="block text-white/90 text-2xl lg:text-3xl mt-2">por meio de Agentes de IA</span>
             </h1>
             
             <p className="text-xl text-white/90 mb-8 max-w-lg">
